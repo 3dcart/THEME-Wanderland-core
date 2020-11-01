@@ -278,7 +278,7 @@
     ,
     {
       "isCustom":0,
-      "name":"Style 2",
+      "name":"Peach",
       "fields":[ 
         {
           "label": "Top Navigation Background", "name": "topnav_bg", "type": 2, "value": "ffb5a7", "group": 0
@@ -527,7 +527,7 @@
     ,
     {
       "isCustom":0,
-      "name":"Style 3",
+      "name":"Pastel",
       "fields":[ 
         {
           "label": "Top Navigation Background", "name": "topnav_bg", "type": 2, "value": "f0a6ca", "group": 0
@@ -776,7 +776,7 @@
     ,
     {
       "isCustom":0,
-      "name":"Style 4",
+      "name":"Blues",
       "fields":[ 
         {
           "label": "Top Navigation Background", "name": "topnav_bg", "type": 2, "value": "3e92cc", "group": 0
@@ -1025,7 +1025,7 @@
     ,
     {
       "isCustom":0,
-      "name":"Style 5",
+      "name":"Pumpkin",
       "fields":[ 
         {
           "label": "Top Navigation Background", "name": "topnav_bg", "type": 2, "value": "fca311", "group": 0
