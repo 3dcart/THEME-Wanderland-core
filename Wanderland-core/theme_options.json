@@ -1,0 +1,1524 @@
+{
+    "theme_name":"Wanderland",
+    "selected_preset":0,
+    "field_groups":[ 
+    {
+      "name": "Header"
+    }
+    ,
+    {
+      "name": "Text & Buttons"
+    }
+    ,
+    {
+      "name": "Typography"
+    }
+    ,
+    {
+      "name": "Products"
+    }
+    ,
+    {
+      "name": "Footer"
+    }
+    ,
+    {
+      "name": "Theme Specific"
+    }
+    ],
+    "theme_presets":[
+    {
+      "isCustom":0,
+      "name":"Default",
+      "fields":[ 
+        {
+          "label": "Top Navigation Background", "name": "topnav_bg", "type": 2, "value": "fdcf50", "group": 0
+        }
+        ,
+        {
+          "label": "Menu Links Text color", "name": "top_nav-text-color", "type": 2, "value": "0eb3b7", "group": 0
+        }
+        ,
+        {
+          "label": "Menu Links Text color - hover", "name": "top_nav-text-color-hover", "type": 2, "value": "ff4f4c", "group": 0
+        }
+        ,
+        {
+          "label": "Navigation Text color", "name": "navigation-text-color", "type": 2, "value": "000000", "group": 0
+        }
+        ,
+        {
+          "label": "Navigation Text color - hover", "name": "navigation-text-hover-color", "type": 2, "value": "ff4f4c", "group": 0
+        }
+        ,
+        {
+          "label": "Navigation Text background", "name": "navigation-text-hover-bg", "type": 2, "value": "ffffff", "group": 0
+        }
+        ,
+        {
+          "label": "Navigation Font Size",
+          "name": "navigation-font-size",
+          "type":3,
+          "value":"35",
+          "options":[ 
+            {
+              "text": "20px", "value": 20
+            }
+            ,
+            {
+              "text": "25px", "value": 25
+            }
+            ,
+            {
+              "text": "30px", "value": 30
+            }
+            ,
+            {
+              "text": "35px", "value": 35
+            }
+            ,
+            {
+              "text": "40px", "value": 40
+            }
+          ],
+          "group":0
+        }
+        ,
+        {
+          "label": "Body text color", "name": "body_text_color", "type": 2, "value": "000000", "group": 1
+        }
+        ,
+        {
+          "label": "Headings color", "name": "headings_color", "type": 2, "value": "0eb3b7", "group": 1
+        }
+        ,
+        {
+          "label": "Primary button text color", "name": "primary-btn-text", "type": 2, "value": "000000", "group": 1
+        }
+        ,
+        {
+          "label": "Primary button color", "name": "primary-btn-bg", "type": 2, "value": "ffffff", "group": 1
+        }
+        ,
+        {
+          "label": "Primary button border", "name": "primary-btn-border", "type": 2, "value": "ff4f4c", "group": 1
+        }
+        ,
+        {
+          "label": "Primary button text color - hover", "name": "primary-btn-text-hover", "type": 2, "value": "ffffff", "group": 1
+        }
+        ,
+        {
+          "label": "Primary button color - hover", "name": "primary-btn-bg-hover", "type": 2, "value": "ff4f4c", "group": 1
+        }
+        ,
+        {
+          "label": "Primary button border - hover", "name": "primary-btn-border-hover", "type": 2, "value": "ff4f4c", "group": 1
+        }
+        ,
+        {
+          "label": "Secondary button text color", "name": "secondary-btn-text", "type": 2, "value": "ffffff", "group": 1
+        }
+        ,
+        {
+          "label": "Secondary button color", "name": "secondary-btn-bg", "type": 2, "value": "ff4f4c", "group": 1
+        }
+        ,
+        {
+          "label": "Secondary button border", "name": "secondary-btn-border", "type": 2, "value": "ff4f4c", "group": 1
+        }
+        ,
+        {
+          "label": "Secondary button text color - hover", "name": "secondary-btn-text-hover", "type": 2, "value": "ffffff", "group": 1
+        }
+        ,
+        {
+          "label": "Secondary button color - hover", "name": "secondary-btn-bg-hover", "type": 2, "value": "0eb3b7", "group": 1
+        }
+        ,
+        {
+          "label": "Secondary button border - hover", "name": "secondary-btn-border-hover", "type": 2, "value": "0eb3b7", "group": 1
+        }
+        ,
+        {
+          "label":"Base font size",
+          "name":"base_font_size",
+          "type":3,
+          "value":"14",
+          "options":[ 
+            {
+              "text": "14px", "value": 14
+            }
+            ,
+            {
+              "text": "15px", "value": 15
+            }
+            ,
+            {
+              "text": "16px", "value": 16
+            }
+            ,
+            {
+              "text": "17px", "value": 17
+            }
+            ,
+            {
+              "text": "18px", "value": 18
+            }
+          ],
+          "group":2
+        }
+        ,
+        {
+          "label":"Heading base size",
+          "name":"heading_base_size",
+          "type":3,
+          "value":"30",
+          "options":[ 
+            {
+              "text": "18px", "value": 18
+            }
+            ,
+            {
+              "text": "20px", "value": 20
+            }
+            ,
+            {
+              "text": "21px", "value": 21
+            }
+            ,
+            {
+              "text": "22px", "value": 22
+            }
+            ,
+            {
+              "text": "23px", "value": 23
+            }
+            ,
+            {
+              "text": "24px", "value": 24
+            }
+            ,
+            {
+              "text": "25px", "value": 25
+            }
+            ,
+            {
+              "text": "26px", "value": 26
+            }
+            ,
+            {
+              "text": "27px", "value": 27
+            }
+            ,
+            {
+              "text": "28px", "value": 28
+            }
+            ,
+            {
+              "text": "29px", "value": 29
+            }
+            ,
+            {
+              "text": "30px", "value": 30
+            }
+            ,
+            {
+              "text": "31px", "value": 31
+            }
+            ,
+            {
+              "text": "32px", "value": 32
+            }
+          ],
+          "group":2
+        }
+        ,
+        {
+          "label": "Sale text", "name": "sale-color", "type": 2, "value": "d04b64", "group": 3
+        }
+        ,
+        {
+          "label": "Default Rating Stars color", "name": "stars-default-color", "type": 2, "value": "b8b8b8", "group": 3
+        }
+        ,
+        {
+          "label": "Rating Stars color", "name": "stars-active-color", "type": 2, "value": "0eb3b7", "group": 3
+        }
+        ,
+        {
+          "label": "Footer Background", "name": "footer-bg", "type": 2, "value": "ffffff", "group": 4
+        }
+        ,
+        {
+          "label": "Footer text color", "name": "footer-text-color", "type": 2, "value": "000000", "group": 4
+        }
+        ,
+        {
+          "label": "Footer Links color", "name": "footer-links-color", "type": 2, "value": "000000", "group": 4
+        }
+        ,
+        {
+          "label": "Footer Links color - hover", "name": "footer-links-color-hover", "type": 2, "value": "000000", "group": 4
+        }
+        ,
+        {
+          "label": "Primary Accent Color", "name": "primary-accent", "type": 2, "value": "0eb3b7", "group": 5
+        }
+        ,
+        {
+          "label": "Secondary Accent Color", "name": "secondary-accent", "type": 2, "value": "ff4f4c", "group": 5
+        }
+        ,
+        {
+          "label": "Tertiary Accent Color", "name": "tertiary-accent", "type": 2, "value": "fdcf50", "group": 5
+        }
+      ]
+    }
+    ,
+    {
+      "isCustom":0,
+      "name":"Peach",
+      "fields":[ 
+        {
+          "label": "Top Navigation Background", "name": "topnav_bg", "type": 2, "value": "ffb5a7", "group": 0
+        }
+        ,
+        {
+          "label": "Menu Links Text color", "name": "top_nav-text-color", "type": 2, "value": "000000", "group": 0
+        }
+        ,
+        {
+          "label": "Menu Links Text color - hover", "name": "top_nav-text-color-hover", "type": 2, "value": "000000", "group": 0
+        }
+        ,
+        {
+          "label": "Navigation Text color", "name": "navigation-text-color", "type": 2, "value": "000000", "group": 0
+        }
+        ,
+        {
+          "label": "Navigation Text color - hover", "name": "navigation-text-hover-color", "type": 2, "value": "222222", "group": 0
+        }
+        ,
+        {
+          "label": "Navigation Text background", "name": "navigation-text-hover-bg", "type": 2, "value": "f9dcc4", "group": 0
+        }
+        ,
+        {
+          "label": "Navigation Font Size",
+          "name": "navigation-font-size",
+          "type":3,
+          "value":"35",
+          "options":[ 
+            {
+              "text": "20px", "value": 20
+            }
+            ,
+            {
+              "text": "25px", "value": 25
+            }
+            ,
+            {
+              "text": "30px", "value": 30
+            }
+            ,
+            {
+              "text": "35px", "value": 35
+            }
+            ,
+            {
+              "text": "40px", "value": 40
+            }
+          ],
+          "group":0
+        }
+        ,
+        {
+          "label": "Body text color", "name": "body_text_color", "type": 2, "value": "000000", "group": 1
+        }
+        ,
+        {
+          "label": "Headings color", "name": "headings_color", "type": 2, "value": "ffb5a7", "group": 1
+        }
+        ,
+        {
+          "label": "Primary button text color", "name": "primary-btn-text", "type": 2, "value": "000000", "group": 1
+        }
+        ,
+        {
+          "label": "Primary button color", "name": "primary-btn-bg", "type": 2, "value": "fcd5ce", "group": 1
+        }
+        ,
+        {
+          "label": "Primary button border", "name": "primary-btn-border", "type": 2, "value": "fcd5ce", "group": 1
+        }
+        ,
+        {
+          "label": "Primary button text color - hover", "name": "primary-btn-text-hover", "type": 2, "value": "000000", "group": 1
+        }
+        ,
+        {
+          "label": "Primary button color - hover", "name": "primary-btn-bg-hover", "type": 2, "value": "ffb5a7", "group": 1
+        }
+        ,
+        {
+          "label": "Primary button border - hover", "name": "primary-btn-border-hover", "type": 2, "value": "ffb5a7", "group": 1
+        }
+        ,
+        {
+          "label": "Secondary button text color", "name": "secondary-btn-text", "type": 2, "value": "000000", "group": 1
+        }
+        ,
+        {
+          "label": "Secondary button color", "name": "secondary-btn-bg", "type": 2, "value": "f9dcc4", "group": 1
+        }
+        ,
+        {
+          "label": "Secondary button border", "name": "secondary-btn-border", "type": 2, "value": "f9dcc4", "group": 1
+        }
+        ,
+        {
+          "label": "Secondary button text color - hover", "name": "secondary-btn-text-hover", "type": 2, "value": "000000", "group": 1
+        }
+        ,
+        {
+          "label": "Secondary button color - hover", "name": "secondary-btn-bg-hover", "type": 2, "value": "fec89a", "group": 1
+        }
+        ,
+        {
+          "label": "Secondary button border - hover", "name": "secondary-btn-border-hover", "type": 2, "value": "fec89a", "group": 1
+        }
+        ,
+        {
+          "label":"Base font size",
+          "name":"base_font_size",
+          "type":3,
+          "value":"14",
+          "options":[ 
+            {
+              "text": "14px", "value": 14
+            }
+            ,
+            {
+              "text": "15px", "value": 15
+            }
+            ,
+            {
+              "text": "16px", "value": 16
+            }
+            ,
+            {
+              "text": "17px", "value": 17
+            }
+            ,
+            {
+              "text": "18px", "value": 18
+            }
+          ],
+          "group":2
+        }
+        ,
+        {
+          "label":"Heading base size",
+          "name":"heading_base_size",
+          "type":3,
+          "value":"30",
+          "options":[ 
+            {
+              "text": "18px", "value": 18
+            }
+            ,
+            {
+              "text": "20px", "value": 20
+            }
+            ,
+            {
+              "text": "21px", "value": 21
+            }
+            ,
+            {
+              "text": "22px", "value": 22
+            }
+            ,
+            {
+              "text": "23px", "value": 23
+            }
+            ,
+            {
+              "text": "24px", "value": 24
+            }
+            ,
+            {
+              "text": "25px", "value": 25
+            }
+            ,
+            {
+              "text": "26px", "value": 26
+            }
+            ,
+            {
+              "text": "27px", "value": 27
+            }
+            ,
+            {
+              "text": "28px", "value": 28
+            }
+            ,
+            {
+              "text": "29px", "value": 29
+            }
+            ,
+            {
+              "text": "30px", "value": 30
+            }
+            ,
+            {
+              "text": "31px", "value": 31
+            }
+            ,
+            {
+              "text": "32px", "value": 32
+            }
+          ],
+          "group":2
+        }
+        ,
+        {
+          "label": "Sale text", "name": "sale-color", "type": 2, "value": "ffb5a7", "group": 3
+        }
+        ,
+        {
+          "label": "Default Rating Stars color", "name": "stars-default-color", "type": 2, "value": "b8b8b8", "group": 3
+        }
+        ,
+        {
+          "label": "Rating Stars color", "name": "stars-active-color", "type": 2, "value": "ffb5a7", "group": 3
+        }
+        ,
+        {
+          "label": "Footer Background", "name": "footer-bg", "type": 2, "value": "f8edeb", "group": 4
+        }
+        ,
+        {
+          "label": "Footer text color", "name": "footer-text-color", "type": 2, "value": "000000", "group": 4
+        }
+        ,
+        {
+          "label": "Footer Links color", "name": "footer-links-color", "type": 2, "value": "000000", "group": 4
+        }
+        ,
+        {
+          "label": "Footer Links color - hover", "name": "footer-links-color-hover", "type": 2, "value": "ffb5a7", "group": 4
+        }
+        ,
+        {
+          "label": "Primary Accent Color", "name": "primary-accent", "type": 2, "value": "ffb5a7", "group": 5
+        }
+        ,
+        {
+          "label": "Secondary Accent Color", "name": "secondary-accent", "type": 2, "value": "fec89a", "group": 5
+        }
+        ,
+        {
+          "label": "Tertiary Accent Color", "name": "tertiary-accent", "type": 2, "value": "fcd5ce", "group": 5
+        }
+      ]
+    }
+    ,
+    {
+      "isCustom":0,
+      "name":"Pastel",
+      "fields":[ 
+        {
+          "label": "Top Navigation Background", "name": "topnav_bg", "type": 2, "value": "f0a6ca", "group": 0
+        }
+        ,
+        {
+          "label": "Menu Links Text color", "name": "top_nav-text-color", "type": 2, "value": "000000", "group": 0
+        }
+        ,
+        {
+          "label": "Menu Links Text color - hover", "name": "top_nav-text-color-hover", "type": 2, "value": "000000", "group": 0
+        }
+        ,
+        {
+          "label": "Navigation Text color", "name": "navigation-text-color", "type": 2, "value": "ffffff", "group": 0
+        }
+        ,
+        {
+          "label": "Navigation Text color - hover", "name": "navigation-text-hover-color", "type": 2, "value": "9c89b8", "group": 0
+        }
+        ,
+        {
+          "label": "Navigation Text background", "name": "navigation-text-hover-bg", "type": 2, "value": "b8bedd", "group": 0
+        }
+        ,
+        {
+          "label": "Navigation Font Size",
+          "name": "navigation-font-size",
+          "type":3,
+          "value":"35",
+          "options":[ 
+            {
+              "text": "20px", "value": 20
+            }
+            ,
+            {
+              "text": "25px", "value": 25
+            }
+            ,
+            {
+              "text": "30px", "value": 30
+            }
+            ,
+            {
+              "text": "35px", "value": 35
+            }
+            ,
+            {
+              "text": "40px", "value": 40
+            }
+          ],
+          "group":0
+        }
+        ,
+        {
+          "label": "Body text color", "name": "body_text_color", "type": 2, "value": "000000", "group": 1
+        }
+        ,
+        {
+          "label": "Headings color", "name": "headings_color", "type": 2, "value": "9c89b8", "group": 1
+        }
+        ,
+        {
+          "label": "Primary button text color", "name": "primary-btn-text", "type": 2, "value": "000000", "group": 1
+        }
+        ,
+        {
+          "label": "Primary button color", "name": "primary-btn-bg", "type": 2, "value": "efc3e6", "group": 1
+        }
+        ,
+        {
+          "label": "Primary button border", "name": "primary-btn-border", "type": 2, "value": "efc3e6", "group": 1
+        }
+        ,
+        {
+          "label": "Primary button text color - hover", "name": "primary-btn-text-hover", "type": 2, "value": "000000", "group": 1
+        }
+        ,
+        {
+          "label": "Primary button color - hover", "name": "primary-btn-bg-hover", "type": 2, "value": "f0a6ca", "group": 1
+        }
+        ,
+        {
+          "label": "Primary button border - hover", "name": "primary-btn-border-hover", "type": 2, "value": "f0a6ca", "group": 1
+        }
+        ,
+        {
+          "label": "Secondary button text color", "name": "secondary-btn-text", "type": 2, "value": "ffffff", "group": 1
+        }
+        ,
+        {
+          "label": "Secondary button color", "name": "secondary-btn-bg", "type": 2, "value": "9c89b8", "group": 1
+        }
+        ,
+        {
+          "label": "Secondary button border", "name": "secondary-btn-border", "type": 2, "value": "9c89b8", "group": 1
+        }
+        ,
+        {
+          "label": "Secondary button text color - hover", "name": "secondary-btn-text-hover", "type": 2, "value": "000000", "group": 1
+        }
+        ,
+        {
+          "label": "Secondary button color - hover", "name": "secondary-btn-bg-hover", "type": 2, "value": "b8bedd", "group": 1
+        }
+        ,
+        {
+          "label": "Secondary button border - hover", "name": "secondary-btn-border-hover", "type": 2, "value": "b8bedd", "group": 1
+        }
+        ,
+        {
+          "label":"Base font size",
+          "name":"base_font_size",
+          "type":3,
+          "value":"14",
+          "options":[ 
+            {
+              "text": "14px", "value": 14
+            }
+            ,
+            {
+              "text": "15px", "value": 15
+            }
+            ,
+            {
+              "text": "16px", "value": 16
+            }
+            ,
+            {
+              "text": "17px", "value": 17
+            }
+            ,
+            {
+              "text": "18px", "value": 18
+            }
+          ],
+          "group":2
+        }
+        ,
+        {
+          "label":"Heading base size",
+          "name":"heading_base_size",
+          "type":3,
+          "value":"30",
+          "options":[ 
+            {
+              "text": "18px", "value": 18
+            }
+            ,
+            {
+              "text": "20px", "value": 20
+            }
+            ,
+            {
+              "text": "21px", "value": 21
+            }
+            ,
+            {
+              "text": "22px", "value": 22
+            }
+            ,
+            {
+              "text": "23px", "value": 23
+            }
+            ,
+            {
+              "text": "24px", "value": 24
+            }
+            ,
+            {
+              "text": "25px", "value": 25
+            }
+            ,
+            {
+              "text": "26px", "value": 26
+            }
+            ,
+            {
+              "text": "27px", "value": 27
+            }
+            ,
+            {
+              "text": "28px", "value": 28
+            }
+            ,
+            {
+              "text": "29px", "value": 29
+            }
+            ,
+            {
+              "text": "30px", "value": 30
+            }
+            ,
+            {
+              "text": "31px", "value": 31
+            }
+            ,
+            {
+              "text": "32px", "value": 32
+            }
+          ],
+          "group":2
+        }
+        ,
+        {
+          "label": "Sale text", "name": "sale-color", "type": 2, "value": "efc3e6", "group": 3
+        }
+        ,
+        {
+          "label": "Default Rating Stars color", "name": "stars-default-color", "type": 2, "value": "b8b8b8", "group": 3
+        }
+        ,
+        {
+          "label": "Rating Stars color", "name": "stars-active-color", "type": 2, "value": "f0a6ca", "group": 3
+        }
+        ,
+        {
+          "label": "Footer Background", "name": "footer-bg", "type": 2, "value": "f0e6ef", "group": 4
+        }
+        ,
+        {
+          "label": "Footer text color", "name": "footer-text-color", "type": 2, "value": "000000", "group": 4
+        }
+        ,
+        {
+          "label": "Footer Links color", "name": "footer-links-color", "type": 2, "value": "000000", "group": 4
+        }
+        ,
+        {
+          "label": "Footer Links color - hover", "name": "footer-links-color-hover", "type": 2, "value": "b8bedd", "group": 4
+        }
+        ,
+        {
+          "label": "Primary Accent Color", "name": "primary-accent", "type": 2, "value": "f0a6ca", "group": 5
+        }
+        ,
+        {
+          "label": "Secondary Accent Color", "name": "secondary-accent", "type": 2, "value": "9c89b8", "group": 5
+        }
+        ,
+        {
+          "label": "Tertiary Accent Color", "name": "tertiary-accent", "type": 2, "value": "b8bedd", "group": 5
+        }
+      ]
+    }
+    ,
+    {
+      "isCustom":0,
+      "name":"Blues",
+      "fields":[ 
+        {
+          "label": "Top Navigation Background", "name": "topnav_bg", "type": 2, "value": "3e92cc", "group": 0
+        }
+        ,
+        {
+          "label": "Menu Links Text color", "name": "top_nav-text-color", "type": 2, "value": "ffffff", "group": 0
+        }
+        ,
+        {
+          "label": "Menu Links Text color - hover", "name": "top_nav-text-color-hover", "type": 2, "value": "0a2463", "group": 0
+        }
+        ,
+        {
+          "label": "Navigation Text color", "name": "navigation-text-color", "type": 2, "value": "1e1b18", "group": 0
+        }
+        ,
+        {
+          "label": "Navigation Text color - hover", "name": "navigation-text-hover-color", "type": 2, "value": "d8315b", "group": 0
+        }
+        ,
+        {
+          "label": "Navigation Text background", "name": "navigation-text-hover-bg", "type": 2, "value": "fffaff", "group": 0
+        }
+        ,
+        {
+          "label": "Navigation Font Size",
+          "name": "navigation-font-size",
+          "type":3,
+          "value":"35",
+          "options":[ 
+            {
+              "text": "20px", "value": 20
+            }
+            ,
+            {
+              "text": "25px", "value": 25
+            }
+            ,
+            {
+              "text": "30px", "value": 30
+            }
+            ,
+            {
+              "text": "35px", "value": 35
+            }
+            ,
+            {
+              "text": "40px", "value": 40
+            }
+          ],
+          "group":0
+        }
+        ,
+        {
+          "label": "Body text color", "name": "body_text_color", "type": 2, "value": "1e1b18", "group": 1
+        }
+        ,
+        {
+          "label": "Headings color", "name": "headings_color", "type": 2, "value": "0a2463", "group": 1
+        }
+        ,
+        {
+          "label": "Primary button text color", "name": "primary-btn-text", "type": 2, "value": "0a2463", "group": 1
+        }
+        ,
+        {
+          "label": "Primary button color", "name": "primary-btn-bg", "type": 2, "value": "fffaff", "group": 1
+        }
+        ,
+        {
+          "label": "Primary button border", "name": "primary-btn-border", "type": 2, "value": "0a2463", "group": 1
+        }
+        ,
+        {
+          "label": "Primary button text color - hover", "name": "primary-btn-text-hover", "type": 2, "value": "ffffff", "group": 1
+        }
+        ,
+        {
+          "label": "Primary button color - hover", "name": "primary-btn-bg-hover", "type": 2, "value": "0a2463", "group": 1
+        }
+        ,
+        {
+          "label": "Primary button border - hover", "name": "primary-btn-border-hover", "type": 2, "value": "0a2463", "group": 1
+        }
+        ,
+        {
+          "label": "Secondary button text color", "name": "secondary-btn-text", "type": 2, "value": "ffffff", "group": 1
+        }
+        ,
+        {
+          "label": "Secondary button color", "name": "secondary-btn-bg", "type": 2, "value": "3e92cc", "group": 1
+        }
+        ,
+        {
+          "label": "Secondary button border", "name": "secondary-btn-border", "type": 2, "value": "3e92cc", "group": 1
+        }
+        ,
+        {
+          "label": "Secondary button text color - hover", "name": "secondary-btn-text-hover", "type": 2, "value": "ffffff", "group": 1
+        }
+        ,
+        {
+          "label": "Secondary button color - hover", "name": "secondary-btn-bg-hover", "type": 2, "value": "0a2463", "group": 1
+        }
+        ,
+        {
+          "label": "Secondary button border - hover", "name": "secondary-btn-border-hover", "type": 2, "value": "0a2463", "group": 1
+        }
+        ,
+        {
+          "label":"Base font size",
+          "name":"base_font_size",
+          "type":3,
+          "value":"14",
+          "options":[ 
+            {
+              "text": "14px", "value": 14
+            }
+            ,
+            {
+              "text": "15px", "value": 15
+            }
+            ,
+            {
+              "text": "16px", "value": 16
+            }
+            ,
+            {
+              "text": "17px", "value": 17
+            }
+            ,
+            {
+              "text": "18px", "value": 18
+            }
+          ],
+          "group":2
+        }
+        ,
+        {
+          "label":"Heading base size",
+          "name":"heading_base_size",
+          "type":3,
+          "value":"30",
+          "options":[ 
+            {
+              "text": "18px", "value": 18
+            }
+            ,
+            {
+              "text": "20px", "value": 20
+            }
+            ,
+            {
+              "text": "21px", "value": 21
+            }
+            ,
+            {
+              "text": "22px", "value": 22
+            }
+            ,
+            {
+              "text": "23px", "value": 23
+            }
+            ,
+            {
+              "text": "24px", "value": 24
+            }
+            ,
+            {
+              "text": "25px", "value": 25
+            }
+            ,
+            {
+              "text": "26px", "value": 26
+            }
+            ,
+            {
+              "text": "27px", "value": 27
+            }
+            ,
+            {
+              "text": "28px", "value": 28
+            }
+            ,
+            {
+              "text": "29px", "value": 29
+            }
+            ,
+            {
+              "text": "30px", "value": 30
+            }
+            ,
+            {
+              "text": "31px", "value": 31
+            }
+            ,
+            {
+              "text": "32px", "value": 32
+            }
+          ],
+          "group":2
+        }
+        ,
+        {
+          "label": "Sale text", "name": "sale-color", "type": 2, "value": "d8315b", "group": 3
+        }
+        ,
+        {
+          "label": "Default Rating Stars color", "name": "stars-default-color", "type": 2, "value": "b8b8b8", "group": 3
+        }
+        ,
+        {
+          "label": "Rating Stars color", "name": "stars-active-color", "type": 2, "value": "d8315b", "group": 3
+        }
+        ,
+        {
+          "label": "Footer Background", "name": "footer-bg", "type": 2, "value": "ffffff", "group": 4
+        }
+        ,
+        {
+          "label": "Footer text color", "name": "footer-text-color", "type": 2, "value": "1e1b18", "group": 4
+        }
+        ,
+        {
+          "label": "Footer Links color", "name": "footer-links-color", "type": 2, "value": "1e1b18", "group": 4
+        }
+        ,
+        {
+          "label": "Footer Links color - hover", "name": "footer-links-color-hover", "type": 2, "value": "d8315b", "group": 4
+        }
+        ,
+        {
+          "label": "Primary Accent Color", "name": "primary-accent", "type": 2, "value": "3e92cc", "group": 5
+        }
+        ,
+        {
+          "label": "Secondary Accent Color", "name": "secondary-accent", "type": 2, "value": "0a2463", "group": 5
+        }
+        ,
+        {
+          "label": "Tertiary Accent Color", "name": "tertiary-accent", "type": 2, "value": "d8315b", "group": 5
+        }
+      ]
+    }
+    ,
+    {
+      "isCustom":0,
+      "name":"Pumpkin",
+      "fields":[ 
+        {
+          "label": "Top Navigation Background", "name": "topnav_bg", "type": 2, "value": "fca311", "group": 0
+        }
+        ,
+        {
+          "label": "Menu Links Text color", "name": "top_nav-text-color", "type": 2, "value": "000000", "group": 0
+        }
+        ,
+        {
+          "label": "Menu Links Text color - hover", "name": "top_nav-text-color-hover", "type": 2, "value": "000000", "group": 0
+        }
+        ,
+        {
+          "label": "Navigation Text color", "name": "navigation-text-color", "type": 2, "value": "14213d", "group": 0
+        }
+        ,
+        {
+          "label": "Navigation Text color - hover", "name": "navigation-text-hover-color", "type": 2, "value": "fca311", "group": 0
+        }
+        ,
+        {
+          "label": "Navigation Text background", "name": "navigation-text-hover-bg", "type": 2, "value": "ffffff", "group": 0
+        }
+        ,
+        {
+          "label": "Navigation Font Size",
+          "name": "navigation-font-size",
+          "type":3,
+          "value":"35",
+          "options":[ 
+            {
+              "text": "20px", "value": 20
+            }
+            ,
+            {
+              "text": "25px", "value": 25
+            }
+            ,
+            {
+              "text": "30px", "value": 30
+            }
+            ,
+            {
+              "text": "35px", "value": 35
+            }
+            ,
+            {
+              "text": "40px", "value": 40
+            }
+          ],
+          "group":0
+        }
+        ,
+        {
+          "label": "Body text color", "name": "body_text_color", "type": 2, "value": "000000", "group": 1
+        }
+        ,
+        {
+          "label": "Headings color", "name": "headings_color", "type": 2, "value": "fca311", "group": 1
+        }
+        ,
+        {
+          "label": "Primary button text color", "name": "primary-btn-text", "type": 2, "value": "000000", "group": 1
+        }
+        ,
+        {
+          "label": "Primary button color", "name": "primary-btn-bg", "type": 2, "value": "e5e5e5", "group": 1
+        }
+        ,
+        {
+          "label": "Primary button border", "name": "primary-btn-border", "type": 2, "value": "e5e5e5", "group": 1
+        }
+        ,
+        {
+          "label": "Primary button text color - hover", "name": "primary-btn-text-hover", "type": 2, "value": "ffffff", "group": 1
+        }
+        ,
+        {
+          "label": "Primary button color - hover", "name": "primary-btn-bg-hover", "type": 2, "value": "000000", "group": 1
+        }
+        ,
+        {
+          "label": "Primary button border - hover", "name": "primary-btn-border-hover", "type": 2, "value": "000000", "group": 1
+        }
+        ,
+        {
+          "label": "Secondary button text color", "name": "secondary-btn-text", "type": 2, "value": "ffffff", "group": 1
+        }
+        ,
+        {
+          "label": "Secondary button color", "name": "secondary-btn-bg", "type": 2, "value": "fca311", "group": 1
+        }
+        ,
+        {
+          "label": "Secondary button border", "name": "secondary-btn-border", "type": 2, "value": "fca311", "group": 1
+        }
+        ,
+        {
+          "label": "Secondary button text color - hover", "name": "secondary-btn-text-hover", "type": 2, "value": "ffffff", "group": 1
+        }
+        ,
+        {
+          "label": "Secondary button color - hover", "name": "secondary-btn-bg-hover", "type": 2, "value": "14213d", "group": 1
+        }
+        ,
+        {
+          "label": "Secondary button border - hover", "name": "secondary-btn-border-hover", "type": 2, "value": "14213d", "group": 1
+        }
+        ,
+        {
+          "label":"Base font size",
+          "name":"base_font_size",
+          "type":3,
+          "value":"14",
+          "options":[ 
+            {
+              "text": "14px", "value": 14
+            }
+            ,
+            {
+              "text": "15px", "value": 15
+            }
+            ,
+            {
+              "text": "16px", "value": 16
+            }
+            ,
+            {
+              "text": "17px", "value": 17
+            }
+            ,
+            {
+              "text": "18px", "value": 18
+            }
+          ],
+          "group":2
+        }
+        ,
+        {
+          "label":"Heading base size",
+          "name":"heading_base_size",
+          "type":3,
+          "value":"30",
+          "options":[ 
+            {
+              "text": "18px", "value": 18
+            }
+            ,
+            {
+              "text": "20px", "value": 20
+            }
+            ,
+            {
+              "text": "21px", "value": 21
+            }
+            ,
+            {
+              "text": "22px", "value": 22
+            }
+            ,
+            {
+              "text": "23px", "value": 23
+            }
+            ,
+            {
+              "text": "24px", "value": 24
+            }
+            ,
+            {
+              "text": "25px", "value": 25
+            }
+            ,
+            {
+              "text": "26px", "value": 26
+            }
+            ,
+            {
+              "text": "27px", "value": 27
+            }
+            ,
+            {
+              "text": "28px", "value": 28
+            }
+            ,
+            {
+              "text": "29px", "value": 29
+            }
+            ,
+            {
+              "text": "30px", "value": 30
+            }
+            ,
+            {
+              "text": "31px", "value": 31
+            }
+            ,
+            {
+              "text": "32px", "value": 32
+            }
+          ],
+          "group":2
+        }
+        ,
+        {
+          "label": "Sale text", "name": "sale-color", "type": 2, "value": "fca311", "group": 3
+        }
+        ,
+        {
+          "label": "Default Rating Stars color", "name": "stars-default-color", "type": 2, "value": "b8b8b8", "group": 3
+        }
+        ,
+        {
+          "label": "Rating Stars color", "name": "stars-active-color", "type": 2, "value": "fca311", "group": 3
+        }
+        ,
+        {
+          "label": "Footer Background", "name": "footer-bg", "type": 2, "value": "e5e5e5", "group": 4
+        }
+        ,
+        {
+          "label": "Footer text color", "name": "footer-text-color", "type": 2, "value": "000000", "group": 4
+        }
+        ,
+        {
+          "label": "Footer Links color", "name": "footer-links-color", "type": 2, "value": "000000", "group": 4
+        }
+        ,
+        {
+          "label": "Footer Links color - hover", "name": "footer-links-color-hover", "type": 2, "value": "14213d", "group": 4
+        }
+        ,
+        {
+          "label": "Primary Accent Color", "name": "primary-accent", "type": 2, "value": "14213d", "group": 5
+        }
+        ,
+        {
+          "label": "Secondary Accent Color", "name": "secondary-accent", "type": 2, "value": "fca311", "group": 5
+        }
+        ,
+        {
+          "label": "Tertiary Accent Color", "name": "tertiary-accent", "type": 2, "value": "000000", "group": 5
+        }
+      ]
+    }
+    ,
+    {
+      "isCustom":1,
+      "name":"Custom",
+      "fields":[ 
+        {
+          "label": "Top Navigation Background", "name": "topnav_bg", "type": 2, "value": "fdcf50", "group": 0
+        }
+        ,
+        {
+          "label": "Menu Links Text color", "name": "top_nav-text-color", "type": 2, "value": "0eb3b7", "group": 0
+        }
+        ,
+        {
+          "label": "Menu Links Text color - hover", "name": "top_nav-text-color-hover", "type": 2, "value": "ff4f4c", "group": 0
+        }
+        ,
+        {
+          "label": "Navigation Text color", "name": "navigation-text-color", "type": 2, "value": "000000", "group": 0
+        }
+        ,
+        {
+          "label": "Navigation Text color - hover", "name": "navigation-text-hover-color", "type": 2, "value": "ff4f4c", "group": 0
+        }
+        ,
+        {
+          "label": "Navigation Text background", "name": "navigation-text-hover-bg", "type": 2, "value": "ffffff", "group": 0
+        }
+        ,
+        {
+          "label": "Navigation Font Size",
+          "name": "navigation-font-size",
+          "type":3,
+          "value":"35",
+          "options":[ 
+            {
+              "text": "20px", "value": 20
+            }
+            ,
+            {
+              "text": "25px", "value": 25
+            }
+            ,
+            {
+              "text": "30px", "value": 30
+            }
+            ,
+            {
+              "text": "35px", "value": 35
+            }
+            ,
+            {
+              "text": "40px", "value": 40
+            }
+          ],
+          "group":0
+        }
+        ,
+        {
+          "label": "Body text color", "name": "body_text_color", "type": 2, "value": "000000", "group": 1
+        }
+        ,
+        {
+          "label": "Headings color", "name": "headings_color", "type": 2, "value": "0eb3b7", "group": 1
+        }
+        ,
+        {
+          "label": "Primary button text color", "name": "primary-btn-text", "type": 2, "value": "000000", "group": 1
+        }
+        ,
+        {
+          "label": "Primary button color", "name": "primary-btn-bg", "type": 2, "value": "ffffff", "group": 1
+        }
+        ,
+        {
+          "label": "Primary button border", "name": "primary-btn-border", "type": 2, "value": "ff4f4c", "group": 1
+        }
+        ,
+        {
+          "label": "Primary button text color - hover", "name": "primary-btn-text-hover", "type": 2, "value": "ffffff", "group": 1
+        }
+        ,
+        {
+          "label": "Primary button color - hover", "name": "primary-btn-bg-hover", "type": 2, "value": "ff4f4c", "group": 1
+        }
+        ,
+        {
+          "label": "Primary button border - hover", "name": "primary-btn-border-hover", "type": 2, "value": "ff4f4c", "group": 1
+        }
+        ,
+        {
+          "label": "Secondary button text color", "name": "secondary-btn-text", "type": 2, "value": "ffffff", "group": 1
+        }
+        ,
+        {
+          "label": "Secondary button color", "name": "secondary-btn-bg", "type": 2, "value": "ff4f4c", "group": 1
+        }
+        ,
+        {
+          "label": "Secondary button border", "name": "secondary-btn-border", "type": 2, "value": "ff4f4c", "group": 1
+        }
+        ,
+        {
+          "label": "Secondary button text color - hover", "name": "secondary-btn-text-hover", "type": 2, "value": "ffffff", "group": 1
+        }
+        ,
+        {
+          "label": "Secondary button color - hover", "name": "secondary-btn-bg-hover", "type": 2, "value": "0eb3b7", "group": 1
+        }
+        ,
+        {
+          "label": "Secondary button border - hover", "name": "secondary-btn-border-hover", "type": 2, "value": "0eb3b7", "group": 1
+        }
+        ,
+        {
+          "label":"Base font size",
+          "name":"base_font_size",
+          "type":3,
+          "value":"14",
+          "options":[ 
+            {
+              "text": "14px", "value": 14
+            }
+            ,
+            {
+              "text": "15px", "value": 15
+            }
+            ,
+            {
+              "text": "16px", "value": 16
+            }
+            ,
+            {
+              "text": "17px", "value": 17
+            }
+            ,
+            {
+              "text": "18px", "value": 18
+            }
+          ],
+          "group":2
+        }
+        ,
+        {
+          "label":"Heading base size",
+          "name":"heading_base_size",
+          "type":3,
+          "value":"30",
+          "options":[ 
+            {
+              "text": "18px", "value": 18
+            }
+            ,
+            {
+              "text": "20px", "value": 20
+            }
+            ,
+            {
+              "text": "21px", "value": 21
+            }
+            ,
+            {
+              "text": "22px", "value": 22
+            }
+            ,
+            {
+              "text": "23px", "value": 23
+            }
+            ,
+            {
+              "text": "24px", "value": 24
+            }
+            ,
+            {
+              "text": "25px", "value": 25
+            }
+            ,
+            {
+              "text": "26px", "value": 26
+            }
+            ,
+            {
+              "text": "27px", "value": 27
+            }
+            ,
+            {
+              "text": "28px", "value": 28
+            }
+            ,
+            {
+              "text": "29px", "value": 29
+            }
+            ,
+            {
+              "text": "30px", "value": 30
+            }
+            ,
+            {
+              "text": "31px", "value": 31
+            }
+            ,
+            {
+              "text": "32px", "value": 32
+            }
+          ],
+          "group":2
+        }
+        ,
+        {
+          "label": "Sale text", "name": "sale-color", "type": 2, "value": "d04b64", "group": 3
+        }
+        ,
+        {
+          "label": "Default Rating Stars color", "name": "stars-default-color", "type": 2, "value": "b8b8b8", "group": 3
+        }
+        ,
+        {
+          "label": "Rating Stars color", "name": "stars-active-color", "type": 2, "value": "0eb3b7", "group": 3
+        }
+        ,
+        {
+          "label": "Footer Background", "name": "footer-bg", "type": 2, "value": "ffffff", "group": 4
+        }
+        ,
+        {
+          "label": "Footer text color", "name": "footer-text-color", "type": 2, "value": "000000", "group": 4
+        }
+        ,
+        {
+          "label": "Footer Links color", "name": "footer-links-color", "type": 2, "value": "000000", "group": 4
+        }
+        ,
+        {
+          "label": "Footer Links color - hover", "name": "footer-links-color-hover", "type": 2, "value": "000000", "group": 4
+        }
+        ,
+        {
+          "label": "Primary Accent Color", "name": "primary-accent", "type": 2, "value": "0eb3b7", "group": 5
+        }
+        ,
+        {
+          "label": "Secondary Accent Color", "name": "secondary-accent", "type": 2, "value": "ff4f4c", "group": 5
+        }
+        ,
+        {
+          "label": "Tertiary Accent Color", "name": "tertiary-accent", "type": 2, "value": "fdcf50", "group": 5
+        }
+      ]
+    }
+    ]
+}
